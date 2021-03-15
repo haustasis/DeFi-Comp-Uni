@@ -1,0 +1,26 @@
+{
+  "name": "defi-comp-uni",
+  "version": "1.0.0",
+  "description": "\"# DeFi-Comp-Uni\"",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haustasis/DeFi-Comp-Uni.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/haustasis/DeFi-Comp-Uni/issues"
+  },
+  "homepage": "https://github.com/haustasis/DeFi-Comp-Uni#readme",
+  "dependencies": {
+    "@openzeppelin/contracts": "^3.2.1-solc-0.7"
+  }
+}
